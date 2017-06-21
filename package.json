@@ -1,0 +1,26 @@
+{
+  "name": "skyjump",
+  "version": "1.0.0",
+  "description": "trampoline website",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k3vinyan/SkyJump.git"
+  },
+  "author": "Kevin Yan & Anuja Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k3vinyan/SkyJump/issues"
+  },
+  "homepage": "https://github.com/k3vinyan/SkyJump#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
